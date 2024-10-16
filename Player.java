@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.Scanner;
-
 class Player {
     private String name;
     private char symbol; // X ou O
