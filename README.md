@@ -98,18 +98,6 @@ O código é composto pelas seguintes partes principais:
 
 - **Classe `TicTacToeGame`**: Controla o fluxo principal do jogo, incluindo a interação com os jogadores, alternância de turnos, e verificação de vitórias ou empates.
 
-## Estrutura de Pastas
-
-O projeto segue a seguinte estrutura de pastas:
-
-```
-/src
-    /com/mycompany/tictactoe
-        Player.java
-        TicTacToe.java
-        TicTacToeGame.java
-```
-
 ## Dependências
 
 Este projeto não possui dependências externas, apenas utiliza a biblioteca padrão do Java.
